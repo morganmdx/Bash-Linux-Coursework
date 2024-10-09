@@ -2,6 +2,13 @@
 
 This program is written in Bash for the Linux operating system and can be launched via Oracle VirtualBox using a suitable Linux ISO operating system image. The program displays hardware and OS information, allows users to manage a calendar with events, provides a file selection tool for deleting files, and shows the current date and time.
 
+## Tech Stack
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+![Oracle VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square)
+
 ## Features
 
 - **System Information:**
@@ -73,10 +80,3 @@ Operating system: Ubuntu 22.04.3 LTS, 64-bit
 
 This project is currently licensed under the MIT License. This is subject to change.
 See the LICENSE file for more details.
-
-## Tech Stack
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
-![Oracle VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square)
