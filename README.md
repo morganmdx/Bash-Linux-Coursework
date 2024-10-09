@@ -38,8 +38,8 @@ To run the program, ensure the following dependencies are installed on your syst
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/morganmdx/Bash-Linux-Coursework.git
+cd Bash-Linux-Coursework
 ```
 
 ## Run the program
